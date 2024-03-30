@@ -1,0 +1,19 @@
+.mainWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  border: 1px solid white;
+  border-radius: 15px;
+  transition: border-color 0.3s;
+  flex-basis: 300px;
+}
+.mainWrapper:hover {
+  border-color: #646cff;
+}
+.textWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}

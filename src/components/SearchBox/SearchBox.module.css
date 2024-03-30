@@ -1,0 +1,10 @@
+.searchWrapper {
+  padding: 30px;
+}
+.searchLabel {
+  margin-right: 20px;
+}
+.searchInput {
+  padding: 5px 10px;
+  border-radius: 5px;
+}
